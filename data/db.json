@@ -1,0 +1,47 @@
+{
+  "user": [
+    {
+      "id": "016e",
+      "name": "Jones",
+      "email": "jones@g.com",
+      "password": "123",
+      "createdAt": "2024-07-12T12:46:03.856Z",
+      "updatedAt": "2024-07-12T12:46:03.856Z"
+    },
+    {
+      "id": "9002",
+      "name": "Jones",
+      "email": "ufombafortune1@gmail.com",
+      "password": "123",
+      "createdAt": "2024-07-19T09:53:34.576Z",
+      "updatedAt": "2024-07-19T09:53:34.576Z"
+    },
+    {
+      "id": "e51b",
+      "name": "hu",
+      "email": "hu.com",
+      "password": "123",
+      "createdAt": "2024-07-19T09:59:06.964Z",
+      "updatedAt": "2024-07-19T09:59:06.964Z"
+    },
+    {
+      "id": "1ee9",
+      "name": "hu",
+      "email": "hu.com",
+      "password": "123",
+      "createdAt": "2024-07-25T22:30:47.949Z",
+      "updatedAt": "2024-07-25T22:30:47.949Z"
+    }
+  ],
+  "workout": [
+    {
+      "id": "67ff",
+      "day": "jjiiyygggg",
+      "reps": "gvgjhhjk bjvv",
+      "author": "hujj",
+      "user_id": "e51b",
+      "createdAt": "2024-07-25T23:13:42.894Z",
+      "updatedAt": "2024-07-25T23:13:42.894Z"
+    }
+  ]
+}
